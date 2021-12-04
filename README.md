@@ -1,0 +1,1 @@
+A landing page made for the "Landing Page" excercise in the Odin Project. 
